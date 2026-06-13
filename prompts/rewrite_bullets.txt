@@ -6,4 +6,4 @@ Missing Keywords: {missing_keywords}
 Resume Text:
 {resume_text}
 
-Return ONLY a numbered list of bullet points.
+Return ONLY a numbered list of bullet points. 
