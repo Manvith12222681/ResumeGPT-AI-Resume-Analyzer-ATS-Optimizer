@@ -3,4 +3,4 @@ Extract the top 15 most important skills, tools, and qualifications from the fol
 Return ONLY a JSON array of strings, no extra text.
 
 Job Description:
-{job_description}
+{job_description} 
