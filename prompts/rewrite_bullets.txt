@@ -1,0 +1,9 @@
+You are a professional resume writer.
+Given the missing keywords below and the candidate's resume text, suggest 3-5 rewritten bullet points that naturally incorporate these missing skills/keywords where relevant, while staying truthful and realistic.
+
+Missing Keywords: {missing_keywords}
+
+Resume Text:
+{resume_text}
+
+Return ONLY a numbered list of bullet points.

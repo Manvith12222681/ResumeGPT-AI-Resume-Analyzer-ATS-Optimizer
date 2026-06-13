@@ -1,0 +1,6 @@
+You are an expert recruiter and ATS system.
+Extract the top 15 most important skills, tools, and qualifications from the following job description.
+Return ONLY a JSON array of strings, no extra text.
+
+Job Description:
+{job_description}

@@ -1,0 +1,15 @@
+You are an ATS (Applicant Tracking System) evaluator.
+Compare the resume text with the job description keywords below.
+Calculate a match score out of 100 based on how many keywords/skills appear in the resume (semantically, not just exact match).
+
+Return ONLY valid JSON in this format:
+{{
+  "score": <number>,
+  "matched_keywords": [...],
+  "missing_keywords": [...]
+}}
+
+Job Keywords: {keywords}
+
+Resume Text:
+{resume_text}
